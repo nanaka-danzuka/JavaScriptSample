@@ -10,7 +10,7 @@ $( function() {
       'color': 'white',
       'background-color': 'violet'
     });
-	  
+  });
   $( '#buttonArside' ).click( function() {
     $( 'article' ).css({
       'color': '#DDD',
@@ -45,5 +45,7 @@ $( function() {
 	$('main').css( 'flex-direction','column' );
   });
 
+	
+	
 });
 	
